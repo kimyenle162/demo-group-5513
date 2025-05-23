@@ -13,3 +13,5 @@ Reference section: Include at least 1 reference.
 # Part C: Tuesday
 Nishta: presentation
 Zooriya + Kim: ppt
+
+Data link: https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships
