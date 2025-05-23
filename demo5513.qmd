@@ -6,4 +6,4 @@ editor: visual
 
 ## Introduction
 
-Students' everyday life now revolves around social media. Even though technology offers advantages like simpler communication and information access, overuse can result in addiction, which can have an impact on mental health and academic achievement. Using a survey-based dataset from 2024, this project investigates the connection between social media use and its effects on students' habits, academic performance, and general well-being.
+Students now spend several hours a day on social media, making it an ordinary element of their lives. Although it provides social interaction and amusement, frequent use may impair students' self-control. Distractions, impulsive conduct and time management issues are all associated with excessive screen Using the data collected in 2024 from a student survey, we gain a deeper understanding of how students digital habits influence their conduct and determining whether media use is associated with a loss of self-control.
