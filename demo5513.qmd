@@ -3,3 +3,7 @@ title: "demo_group_5513_main"
 format: pdf
 editor: visual
 ---
+
+## Introduction
+
+Students' everyday life now revolves around social media. Even though technology offers advantages like simpler communication and information access, overuse can result in addiction, which can have an impact on mental health and academic achievement. Using a survey-based dataset from 2024, this project investigates the connection between social media use and its effects on students' habits, academic performance, and general well-being.
