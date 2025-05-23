@@ -3,7 +3,7 @@
 # Nishta: 
 Executive summary: Maximum of 4 sentences=> This be the last thing
 Introduction: Maximum 10 sentences
-# Zooriya: 
+# Zooroya: 
 Methodology: Maximum 300 words
 Should include a figure and a table and those must be referenced in the text and have adequate captions
 # Kim:
@@ -12,6 +12,6 @@ Discussion, conclusion and recommendations
 Reference section: Include at least 1 reference.
 # Part C: Tuesday
 Nishta: presentation
-Zooriya + Kim: ppt
+Zooroya + Kim: ppt
 
 Data link: https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships
