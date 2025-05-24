@@ -1,0 +1,13 @@
+---
+title: "ETC5513_ass3"
+format: html
+editor: yuehanzhou
+---
+
+```{r}
+library(tidyverse)
+library(readr)
+data_raw <- read_csv("data/Students Social Media Addiction.csv")
+data_clean <- data_raw %>%
+  select(Avg_Daily_Usage_Hours, Conflicts_Over_Social_Media)
+```
